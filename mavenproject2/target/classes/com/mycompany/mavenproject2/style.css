@@ -1,0 +1,28 @@
+.root{
+    -fx-background-image : url("a.jpg") ;
+}
+.lable{
+    -fx-font-weight : bold;
+    -fx-font-family : "Arial Black";
+    -fx-fill: #ffff00;
+    -fx-font-size:35px;
+}
+.button{
+    -fx-font-weight: bold;
+    -fx-font-family:"Arial Black" ;
+    -fx-fill:#ff0000;
+    -fx-font-size : 35px;
+    -fx-background-color: linear-gradient(#ffffff , #000000);
+}
+.text{
+     -fx-font-weight: bold;
+    -fx-font-family:"Arial Black" ;
+    -fx-fill:#33ff66;
+    -fx-font-size : 35px;
+}
+TextField{
+     -fx-font-weight: bold;
+    -fx-font-family:"Arial Black" ;
+    -fx-fill:#33ff66;
+    -fx-font-size : 35px;
+}

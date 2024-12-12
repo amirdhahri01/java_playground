@@ -54,6 +54,7 @@ public class App extends Application {
             actionText.setFill(Color.BLUE);
             actionText.setText("Submited");
         });
+        scene.getStylesheets().add(App.class.getResource("style.css").toExternalForm());
         stage.setTitle("Login Page");
         stage.setScene(scene);
         stage.show();
