@@ -1,0 +1,3 @@
+metier\Compte.class
+service\IBanqueRemote.class
+service\ClientRMI.class

@@ -1,0 +1,17 @@
+com\mycompany\dev_application\DumbClass.class
+com\mycompany\dev_application\Conversation.class
+com\mycompany\dev_application\DumbClass2.class
+RMI\RMITraitement.class
+com\mycompany\dev_application\ClientTCP.class
+com\mycompany\dev_application\Task1.class
+com\mycompany\dev_application\DumbClass3.class
+com\mycompany\dev_application\Dev_application.class
+com\mycompany\dev_application\Task2.class
+com\mycompany\dev_application\Server.class
+com\mycompany\dev_application\ServeurMT3.class
+com\mycompany\dev_application\ServerTCP.class
+com\mycompany\dev_application\ServerTCP_CH.class
+RMI\RMITraitementImpl.class
+com\mycompany\dev_application\Client.class
+com\mycompany\dev_application\ClientTCP_CH.class
+RMI\Server.class
